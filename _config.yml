@@ -97,7 +97,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -195,6 +195,7 @@ exclude:
   - vendor
   - _pages/blog.md
   - _pages/profiles.md
+  - _pages/books.md
 
 keep_files:
   - CNAME
