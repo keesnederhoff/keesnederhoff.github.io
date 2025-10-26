@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Coastal Scientist Deltares USA & USGS Visiting Scientist
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>1111 Broadway</p>
+    <p>Oakland, CA 94607</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +26,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a coastal scientist originally from the Netherlands and now based in the San Francisco Bay Area, where rising seas, urban estuaries, and ambitious adaptation plans intersect on the frontlines of climate change.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+As a Coastal Scientist at Deltares USA and Visiting Scientist at the U.S. Geological Survey, I work with local, state, and federal partners to design actionable solutions that reduce coastal flood risks while protecting the natural systems that make our coastlines so valuable. My work bridges science, engineering, and decision-making — from major estuaries like San Francisco Bay and the Snohomish River to remote Arctic and tropical communities.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research focuses on transforming how we predict and reduce coastal hazards under climate change, with three core themes:
+Compound Flooding & Multi-Hazard Dynamics: Understanding how rivers, tides, surge, waves, and groundwater interact to shape flood extremes
+Changing Hazard Regimes: Quantifying how climate change, sea-level rise, and permafrost thaw alter flood risk across diverse coastal systems
+Nature-Based & Hybrid Adaptation: 
+Advancing engineering-grade modeling of wetlands, coral reefs, mangroves, and flood barrier systems to enhance community resilience
+
+I hold a Ph.D. in Coastal Engineering (2024), along with M.S. and B.S. degrees in hydraulic engineering from TU Delft and IHE Delft. I collaborate widely across academia, government, and nonprofits, with >10 years of experience leading multi-investigator coastal resilience projects.
+
+I am also passionate about teaching and mentoring. I have taught and led modeling workshops at UC Berkeley, UC Santa Cruz, TU Delft - helping the next generation of engineers build and troubleshoot real-world coastal models.
+
+Outside of work, you’ll find me trail running in the East Bay hills, experimenting with drought-tolerant gardening, cooking new meals with my wife, or backpacking in the Sierra Nevada. These places remind me why resilience work matters — we are protecting both communities and the natural environments we love.
