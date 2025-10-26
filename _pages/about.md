@@ -6,7 +6,7 @@ subtitle: Coastal Scientist Deltares USA & USGS Visiting Scientist
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: B29I5468narrow.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>1111 Broadway</p>

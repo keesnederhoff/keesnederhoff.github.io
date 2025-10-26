@@ -35,19 +35,14 @@
       "name": "Deltares USA",
       "position": "Lead Coastal Scientist",
       "location": "Oakland, CA",
-      "startDate": "2019-01-01",
-      "summary": "Principal investigator on >$6M in federal research grants; total portfolio >$20M. Research focus includes compound flooding, Arctic erosion, and probabilistic tropical cyclone forecasting.",
-      "highlights": [
-        "Project lead on >$1M in applied coastal modeling for Bay Area adaptation",
-        "Co-developed SFINCS flood model used in >20 countries",
-        "Supervised 23 graduate students with strong placement outcomes"
-      ]
+      "startDate": "2019-06-01",
+      "summary": "Lead scientist on coastal hydrodynamics, morphodynamics, and coastal & riverine hazard projects."
     },
     {
       "name": "U.S. Geological Survey (USGS)",
       "position": "Visiting Scientist",
       "location": "Santa Cruz, CA",
-      "startDate": "2019-01-01",
+      "startDate": "2019-06-01",
       "summary": "Co-led development of nationwide compound flooding capabilities in USGS CoSMoS and integrated coastal–riverine–groundwater modeling approaches for urban estuaries."
     },
     {
@@ -55,7 +50,7 @@
       "position": "Coastal Engineer & Research Scientist",
       "location": "Delft, The Netherlands",
       "startDate": "2015-01-01",
-      "endDate": "2019-01-01",
+      "endDate": "2019-06-01",
       "summary": "Developed Delft3D, XBeach, SEAWAT, and compound flood modeling applications; guest lecturer in MSc coastal modeling."
     }
   ],
@@ -64,20 +59,20 @@
       "institution": "Delft University of Technology",
       "area": "Coastal Engineering",
       "studyType": "Ph.D.",
-      "endDate": "2024-01-01",
+      "endDate": "2024-06-01",
       "summary": "\"Navigating the Storm: New Approaches to Tropical Cyclone Risk Analysis\""
     },
     {
       "institution": "Delft University of Technology",
       "area": "Hydraulic Engineering",
-      "studyType": "M.Sc.",
-      "endDate": "2014-01-01"
+      "studyType": "Master of Science",
+      "endDate": "2014-06-01"
     },
     {
       "institution": "Delft University of Technology",
       "area": "Civil Engineering",
-      "studyType": "B.Sc.",
-      "endDate": "2012-01-01"
+      "studyType": "Bachelor of Science",
+      "endDate": "2012-06-01"
     }
   ],
   "publications": [
