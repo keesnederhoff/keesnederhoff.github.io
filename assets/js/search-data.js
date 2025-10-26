@@ -427,8 +427,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-website-created-initial-layout-under-construction",
-          title: 'Website created � initial layout under construction.',
+          section: "News",},{id: "news-website-created-layout-and-content-under-construction",
+          title: 'Website created - layout and content under construction.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -481,6 +481,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%6B%65%65%73.%6E%65%64%65%72%68%6F%66%66@%64%65%6C%74%61%72%65%73-%75%73%61.%75%73", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/keesnederhoff# your GitHub user name", "_blank");
         },
       },{
         id: 'social-$inspirehep_id',
