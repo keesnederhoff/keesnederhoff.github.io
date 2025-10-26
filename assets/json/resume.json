@@ -2,8 +2,7 @@
   "basics": {
     "name": "C.M. (Kees) Nederhoff, Ph.D.",
     "label": "Coastal Scientist | Natural Hazard and Risk Engineering",
-    "email": "cmnederhoff@gmail.com",
-    "phone": "408-582-4690",
+    "email": "kees.nederhoff@deltares-usa.us | cmnederhoff@gmail.com",
     "location": {
       "city": "Oakland",
       "region": "California",
@@ -135,14 +134,4 @@
       "keywords": ["Python", "MATLAB", "Fortran", "HPC workflows"]
     }
   ],
-  "references": [
-    {
-      "name": "Dr. Ap van Dongeren",
-      "email": "ap.vandongeren@deltares.nl"
-    },
-    {
-      "name": "Dr. Patrick Barnard",
-      "email": "pbarnard1@ucsc.edu"
-    }
-  ]
 }
