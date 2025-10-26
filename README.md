@@ -8,6 +8,7 @@ The site is built using the excellent open-source **[al-folio](https://github.co
 Jekyll theme and deployed via GitHub Pages.
 
 📌 **Content includes**
+
 - Publications automatically generated from BibTeX
 - Professional experience & research projects
 - News and updates
