@@ -33,7 +33,7 @@ As a Coastal Scientist at Deltares USA and Visiting Scientist at the U.S. Geolog
 My research focuses on transforming how we predict and reduce coastal hazards under climate change, with three core themes:
 Compound Flooding & Multi-Hazard Dynamics: Understanding how rivers, tides, surge, waves, and groundwater interact to shape flood extremes
 Changing Hazard Regimes: Quantifying how climate change, sea-level rise, and permafrost thaw alter flood risk across diverse coastal systems
-Nature-Based & Hybrid Adaptation: 
+Nature-Based & Hybrid Adaptation:
 Advancing engineering-grade modeling of wetlands, coral reefs, mangroves, and flood barrier systems to enhance community resilience
 
 I hold a Ph.D. in Coastal Engineering (2024), along with M.S. and B.S. degrees in hydraulic engineering from TU Delft and IHE Delft. I collaborate widely across academia, government, and nonprofits, with >10 years of experience leading multi-investigator coastal resilience projects.

@@ -133,14 +133,7 @@
   "skills": [
     {
       "name": "Coastal Hazard Modeling",
-      "keywords": [
-        "SFINCS",
-        "Delft3D",
-        "XBeach",
-        "SWAN",
-        "MODFLOW",
-        "Hydrodynamic + Morphodynamic Modeling"
-      ]
+      "keywords": ["SFINCS", "Delft3D", "XBeach", "SWAN", "MODFLOW", "Hydrodynamic + Morphodynamic Modeling"]
     },
     {
       "name": "Scientific Computing",
