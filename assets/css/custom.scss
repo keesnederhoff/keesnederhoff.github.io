@@ -1,0 +1,5 @@
+// Remove bold from the first word of the home page title
+.home h1 > b,
+.home h1 > strong {
+  font-weight: inherit !important;
+}

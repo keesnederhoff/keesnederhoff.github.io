@@ -497,18 +497,18 @@ ninja.data = [{
           window.open("https://github.com/keesnederhoff# your GitHub user name", "_blank");
         },
       },{
-        id: 'social-$inspirehep_id',
-        title: '$inspirehep_id',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/kees-nederhoff", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0003-1656-4372", "_blank");
         },
       },{
         id: 'social-scholar',
