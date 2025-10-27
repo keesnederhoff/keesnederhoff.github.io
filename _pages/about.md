@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Coastal Scientist Deltares USA & USGS Visiting Scientist
 
