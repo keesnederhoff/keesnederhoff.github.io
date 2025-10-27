@@ -24,8 +24,8 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          title: "Repositories",
+          description: "Selected open-source projects and research software from my GitHub profile.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -494,7 +494,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/keesnederhoff# your GitHub user name", "_blank");
+          window.open("https://github.com/keesnederhoff", "_blank");
         },
       },{
         id: 'social-linkedin',
