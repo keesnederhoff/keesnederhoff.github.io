@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-",
+        },{id: "post-completing-a-phd-while-working-full-time-reflections-from-my-defense",
         
-          title: "",
+          title: "Completing a PhD While Working Full-Time - Reflections from My Defense",
         
-        description: "",
+        description: "Reflections on completing a PhD in Coastal Engineering while maintaining a full-time research position",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/2024-07-01-phd/";
+            window.location.href = "/blog/2024/phd/";
           
         },
       },{id: "news-oral-presentation-on-morphodynamic-modeling-of-eden-landing-at-american-shore-and-beach-preservation-association-asbpa-national-coastal-conference-long-beach-ca",
