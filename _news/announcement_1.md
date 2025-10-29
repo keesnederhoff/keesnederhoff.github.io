@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Oral presentation on morphodynamic modeling of Eden Landing at American Shore and Beach Preservation Association (ASBPA) National Coastal Conference, Long Beach CA
+[Oral presentation on morphodynamic modeling of Eden Landing at American Shore and Beach Preservation Association (ASBPA) National Coastal Conference, Long Beach CA](https://www.linkedin.com/feed/update/urn:li:activity:7383529140202909696/)
