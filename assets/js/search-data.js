@@ -44,26 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-",
         
-          title: "a post with plotly.js",
+          title: "",
         
-        description: "this is what included plotly.js code could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
-          
-        },
-      },{id: "post-a-post-with-image-galleries",
-        
-          title: "a post with image galleries",
-        
-        description: "this is what included image galleries could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/photo-gallery/";
+            window.location.href = "/blog/2025/2024-07-01-phd/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -75,17 +64,6 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-          
-        },
-      },{id: "post-a-post-with-tabs",
-        
-          title: "a post with tabs",
-        
-        description: "this is what included tabs in a post could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/phd/";
           
         },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
@@ -107,15 +85,13 @@ ninja.data = [{
             },},{id: "news-oral-presentation-on-morphodynamic-modeling-of-eden-landing-at-american-shore-and-beach-preservation-association-asbpa-national-coastal-conference-long-beach-ca",
           title: 'Oral presentation on morphodynamic modeling of Eden Landing at American Shore and Beach...',
           description: "",
-          section: "News",},{id: "news-oral-presentation-on-morphodynamic-modeling-of-eden-landing-at-american-shore-and-beach-preservation-association-asbpa-national-coastal-conference-long-beach-ca",
-          title: 'Oral presentation on morphodynamic modeling of Eden Landing at American Shore and Beach...',
+          section: "News",},{id: "news-new-paper-published-mitigating-flood-risks-in-urban-estuaries-tidal-dynamics-shoreline-hardening-nature-based-solutions-and-floodgates-in-san-francisco-bay-in-asce-journal-of-waterway-port-coastal-and-ocean-engineering-https-ascelibrary-org-doi-10-1061-jwped5-wweng-2342",
+          title: 'New paper published: “Mitigating Flood Risks in Urban Estuaries: Tidal Dynamics, Shoreline Hardening,...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-presented-research-on-san-francisco-bay-compound-flooding-at-state-of-the-estuary-conference-oakland-ca",
+          title: 'Presented research on San Francisco Bay compound flooding at State of the Estuary...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
