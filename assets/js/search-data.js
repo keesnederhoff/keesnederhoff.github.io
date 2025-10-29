@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "Under construction.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-repositories",
           title: "Repositories",
           description: "Selected open-source projects and research software from my GitHub profile.",
@@ -32,17 +25,10 @@ ninja.data = [{
           },
         },{id: "nav-resume",
           title: "Resume",
-          description: "Resume for Dr. C.M. (Kees) Nederhoff - Coastal Scientist specializing in flood risk, hydrodynamics, and nature-based solutions.",
+          description: "Resume for Dr. C.M. (Kees) Nederhoff - Coastal Scientist specializing in flood risk, hydrodynamics, and nature-based solutions. Last updated October 2025",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Under construction",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
           },
         },{id: "post-",
         
@@ -55,15 +41,10 @@ ninja.data = [{
             window.location.href = "/blog/2025/2024-07-01-phd/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-oral-presentation-on-morphodynamic-modeling-of-eden-landing-at-american-shore-and-beach-preservation-association-asbpa-national-coastal-conference-long-beach-ca",
+      },{id: "news-oral-presentation-on-morphodynamic-modeling-of-eden-landing-at-american-shore-and-beach-preservation-association-asbpa-national-coastal-conference-long-beach-ca",
           title: 'Oral presentation on morphodynamic modeling of Eden Landing at American Shore and Beach...',
           description: "",
-          section: "News",},{id: "news-new-paper-published-mitigating-flood-risks-in-urban-estuaries-tidal-dynamics-shoreline-hardening-nature-based-solutions-and-floodgates-in-san-francisco-bay-in-asce-journal-of-waterway-port-coastal-and-ocean-engineering-https-ascelibrary-org-doi-10-1061-jwped5-wweng-2342",
+          section: "News",},{id: "news-new-paper-published-mitigating-flood-risks-in-urban-estuaries-tidal-dynamics-shoreline-hardening-nature-based-solutions-and-floodgates-in-san-francisco-bay-in-asce-journal-of-waterway-port-coastal-and-ocean-engineering",
           title: 'New paper published: “Mitigating Flood Risks in Urban Estuaries: Tidal Dynamics, Shoreline Hardening,...',
           description: "",
           section: "News",},{id: "news-presented-research-on-san-francisco-bay-compound-flooding-at-state-of-the-estuary-conference-oakland-ca",
@@ -140,7 +121,7 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0000-0003-1656-4372", "_blank");
+          window.open("https://orcid.org/0000-0003-0552-3428", "_blank");
         },
       },{
         id: 'social-scholar',
