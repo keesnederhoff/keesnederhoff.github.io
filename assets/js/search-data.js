@@ -34,7 +34,7 @@ ninja.data = [{
         
           title: "Completing a PhD While Working Full-Time - Reflections from My Defense",
         
-        description: "Reflections on completing a PhD in Coastal Engineering while maintaining a full-time research position",
+        description: "Reflections on completing a PhD in Coastal Engineering while maintaining a full-time research position, navigating time zones, evening classes, and building a coherent research program",
         section: "Posts",
         handler: () => {
           
