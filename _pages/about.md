@@ -38,6 +38,6 @@ My research focuses on transforming how we predict and reduce coastal hazards un
 
 I hold a Ph.D. in Coastal Engineering (2024), along with M.S. and B.S. degrees in hydraulic engineering from TU Delft and IHE Delft. I collaborate widely across academia, government, and nonprofits, with >10 years of experience leading multi-investigator coastal resilience projects.
 
-I am also passionate about teaching and mentoring. I have taught and led modeling workshops at UC Berkeley, UC Santa Cruz, TU Delft - helping the next generation of engineers build and troubleshoot real-world coastal models.
+I’m also passionate about teaching and mentoring. Through workshops and guest lectures at UC Berkeley, UC Santa Cruz, and TU Delft, I help students and professionals build and troubleshoot real-world coastal models — bridging theory, data, and decision-making in practice.
 
 Outside of work, you’ll find me trail running in the East Bay hills, experimenting with drought-tolerant gardening, cooking new meals with my wife, or backpacking in the Sierra Nevada. These places remind me why resilience work matters — we are protecting both communities and the natural environments we love.
