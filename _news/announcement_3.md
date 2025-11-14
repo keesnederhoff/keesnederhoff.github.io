@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented research on San Francisco Bay compound flooding at State of the Estuary Conference, Oakland, CA
+[Presented research on San Francisco Bay compound flooding at State of the Estuary Conference, Oakland, CA](https://www.linkedin.com/feed/update/urn:li:activity:7389767592107880449/)
