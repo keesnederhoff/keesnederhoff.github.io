@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "C.M. (Kees) Nederhoff, Ph.D.",
-    "label": "Coastal Scientist | Natural Hazard and Risk Engineering",
+    "label": "Coastal Scientist | Compound Flooding, Coastal Processes & Operational Modeling",
     "email": "kees.nederhoff@deltares-usa.us",
     "phone": "+1 (408) 582-4690",
     "location": {
@@ -9,7 +9,7 @@
       "region": "California",
       "countryCode": "US"
     },
-    "summary": "Coastal scientist specializing in compound flooding, tropical cyclone hazards, and climate adaptation. Recent PhD from Delft University (2024). Principal Investigator on $6M+ in federal research funding from USGS, ONR, NOAA, and ERDC. Co-developer of SFINCS flood model used in 20+ countries. Published 32 peer-reviewed articles (h-index 19, 1,361 citations) advancing physics-based flood modeling and nature-based coastal resilience. Supervised 23 graduate students across six research universities.",
+    "summary": "Coastal scientist specializing in compound flooding, coastal-estuarine physical processes, and operational hazard modeling. Ph.D. from Delft University of Technology and IHE Delft (2024). Principal Investigator on $6M+ in federal research funding from USGS, ONR, NSF, NOAA, and FEMA. Co-developer of SFINCS, a compound flood model used operationally by USGS, NOAA, and the U.S. Navy in 20+ countries. Published 32+ peer-reviewed articles (h-index 19, 1,400+ citations). Supervised 23 graduate students across six research universities.",
     "profiles": [
       {
         "network": "Google Scholar",
@@ -43,16 +43,18 @@
   "work": [
     {
       "name": "Deltares USA",
-      "position": "Lead Coastal Scientist",
+      "position": "Coastal Scientist",
       "location": "Oakland, CA",
       "startDate": "2019-06-01",
-      "summary": "Principal Investigator on $6M+ in federal research grants advancing compound flooding science, tropical cyclone forecasting, and coastal hazard assessment",
+      "summary": "Principal Investigator on $6M+ in federal research grants advancing compound flooding science, coastal process understanding, and operational hazard modeling tools.",
       "highlights": [
-        "Published 32 peer-reviewed articles (h-index 19, 1,361 citations) in Nature Climate Change, Coastal Engineering, and Natural Hazards and Earth System Sciences",
-        "Co-developed SFINCS flood model now operational in 20+ countries and adopted by USGS CoSMoS and U.S. Navy forecasting systems",
-        "Supervised 23 graduate students (7 PhD, 16 MS) resulting in 6 peer-reviewed publications",
-        "Led $1M+ in applied coastal modeling projects for regional hazard assessment and wetland restoration in San Francisco Bay",
-        "Completed PhD in Coastal Engineering at Delft University (2024) while maintaining full-time research program"
+        "Co-developed SFINCS, a compound flood model now operational in 20+ countries and adopted by USGS CoSMoS and U.S. Navy forecasting systems",
+        "Published 32+ peer-reviewed articles in journals including Nature Climate Change, Coastal Engineering, Geoscientific Model Development, and Natural Hazards and Earth System Sciences",
+        "Lead researcher on the San Francisco Bay Community Model (Delft3D FM), providing shared modeling infrastructure for regional flood risk and adaptation analysis",
+        "Supervised 23 graduate students (7 PhD, 16 MSc) across six universities, resulting in 6 peer-reviewed publications",
+        "Lead PI on Arctic coastal hazards program spanning ONR MURI (thermo-morphodynamics), NSF ACTION (community resilience), and USGS CoSMoS-Alaska",
+        "Led $1M+ in applied coastal modeling projects for Alameda County Flood Control District, including compound coastal-riverine flood assessment and rainfall downscaling",
+        "Completed Ph.D. in Coastal Engineering at TU Delft / IHE Delft (2024) while maintaining full-time research program"
       ]
     },
     {
@@ -60,11 +62,12 @@
       "position": "Visiting Scientist",
       "location": "Santa Cruz, CA",
       "startDate": "2019-06-01",
-      "summary": "Co-lead development of Coastal Storm Modeling System (CoSMoS) assessing compound flooding impacts for 100+ million U.S. coastal residents",
+      "summary": "Co-developer of the Coastal Storm Modeling System (CoSMoS), a dynamic downscaling framework for assessing compound flooding impacts along the U.S. coastline.",
       "highlights": [
-        "Principal Investigator on $3.8M USGS research portfolio including CoSMoS nationwide expansion, MODFLOW groundwater model development, and regional hazard assessments",
-        "Developed integrated methodologies coupling storm surge, wave overtopping, riverine discharge, and shallow groundwater for urban estuarine flooding",
-        "Co-authored federal reports and high-impact publications including Nature Climate Change paper on Southeast Atlantic multi-hazard projections",
+        "Principal Investigator on $3.8M USGS research portfolio spanning CoSMoS nationwide expansion, groundwater-flood coupling, and regional hazard assessments",
+        "Co-developed and applied SFINCS compound flood model as the core computational engine for CoSMoS flood hazard mapping across multiple U.S. regions",
+        "Co-authored Nature Climate Change paper on Southeast Atlantic multi-hazard projections, quantifying exposure of 70%+ of coastal residents to shallow groundwater under 1 m SLR",
+        "Led development of integrated compound flooding methods coupling storm surge, wave overtopping, riverine discharge, precipitation, and shallow groundwater for urban estuarine environments",
         "Trained USGS staff nationwide in SFINCS, CoSMoS, XBeach, and Delft3D applications"
       ]
     },
@@ -74,11 +77,12 @@
       "location": "Delft, The Netherlands",
       "startDate": "2015-01-01",
       "endDate": "2019-06-01",
-      "summary": "Developed and validated process-based coastal models (Delft3D, XBeach, SWAN) for storm surge, wave-driven morphodynamics, and compound flooding",
+      "summary": "Developed and validated process-based coastal models (Delft3D, XBeach, SWAN) for storm surge, wave-driven flooding, morphodynamics, and tropical cyclone hazard assessment.",
       "highlights": [
-        "Led synthetic tropical cyclone modeling innovation later formalized in PhD research",
-        "Guest lecturer at TU Delft and IHE Delft teaching MSc coastal modeling courses (2015-2019)",
-        "Contributed to international projects with NOAA, World Bank, and coastal agencies globally"
+        "Initiated synthetic tropical cyclone modeling research (TCWiSE) later formalized as Ph.D. dissertation",
+        "Co-developed Delft Dashboard (DDB), an open-source tool for rapid setup of hydrodynamic models",
+        "Guest lecturer at TU Delft and IHE Delft, teaching MSc-level coastal modeling courses (2015-2019)",
+        "Contributed to international projects with NOAA, World Bank, and coastal agencies in West Africa, the Caribbean, and South/Southeast Asia"
       ]
     }
   ],

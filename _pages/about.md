@@ -26,18 +26,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a coastal scientist originally from the Netherlands and now based in the San Francisco Bay Area, where rising seas, urban estuaries, and ambitious adaptation plans intersect on the frontlines of climate change.
+I am a coastal scientist originally from the Netherlands and now based in the San Francisco Bay Area, where rising seas, shifting storm patterns, and ambitious adaptation plans converge on the front lines of climate change.
 
-As a Coastal Scientist at Deltares USA and Visiting Scientist at the U.S. Geological Survey, I work with local, state, and federal partners to design actionable solutions that reduce coastal flood risks while protecting the natural systems that make our coastlines so valuable. My work bridges science, engineering, and decision-making — from major estuaries like San Francisco Bay and the Snohomish River to remote Arctic and tropical communities.
+As a Coastal Scientist at Deltares USA and Visiting Scientist at the U.S. Geological Survey, I work with federal, state, and local partners to advance the science and tools needed to predict, understand, and mitigate coastal hazards under non-stationary conditions. My work spans major estuaries like San Francisco Bay, the rapidly transforming Arctic coastline of Alaska, and storm-exposed communities along the U.S. Atlantic and Pacific coasts.
 
-My research focuses on transforming how we predict and reduce coastal hazards under climate change, with three core themes:
+My research is organized around three interconnected themes:
+- **Compound Flooding & Multi-Hazard Prediction:** Understanding how surge, rivers, precipitation, waves, and groundwater interact to produce flood extremes with no historical precedent — and how those compound regimes evolve under climate change.
+- **Coastal-Estuarine Physical Processes:** Investigating the mechanisms governing coastal change, from cohesive sediment dynamics and roughness-erodibility interactions in estuaries to permafrost-coast thermodynamics in the Arctic. Nature-based solution science — how marshes, vegetation, and restored landscapes modify flood patterns — lives here as a direct application of process understanding.
+- **Operational Tools & Decision Frameworks:** Translating high-fidelity science into tools usable at the speed of decisions. I co-developed SFINCS, a compound flood model now used operationally by USGS, NOAA, and the U.S. Navy across 20+ countries. Current work in this theme includes GPU-accelerated flood simulation, physics-informed machine learning emulators, and cyberinfrastructure for community-scale hazard assessment.
 
-- **Compound Flooding & Multi-Hazard Dynamics:** Understanding how rivers, tides, surge, waves, and groundwater interact to shape flood extremes
-- **Changing Hazard Regimes:** Quantifying how climate change, sea-level rise, and permafrost thaw alter flood risk across diverse coastal systems
-- **Nature-Based & Hybrid Adaptation:** Advancing engineering-grade modeling of wetlands, coral reefs, mangroves, and flood barrier systems to enhance community resilience
+These themes are applied across two primary geographic programs: San Francisco Bay and the Pacific Coast, where the SF Bay Community Model provides shared infrastructure for academic research and agency operations; and Arctic Alaska, where sea-ice loss, permafrost degradation, and changing wave regimes create compound hazards with direct impacts on Alaska Native communities.
 
-I hold a Ph.D. in Coastal Engineering (2024), along with M.S. and B.S. degrees in hydraulic engineering from TU Delft and IHE Delft. I collaborate widely across academia, government, and nonprofits, with >10 years of experience leading multi-investigator coastal resilience projects.
+I hold a Ph.D. in Coastal Engineering from TU Delft and IHE Delft (2024), completed while maintaining a full-time research program. I have served as Principal Investigator on over $6M in federal research funding from USGS, ONR, NSF, NOAA, and FEMA, and have supervised 23 graduate students across six universities. I am passionate about teaching and mentoring — through short courses at international conferences, guest lectures at UC Berkeley, UC Santa Cruz, and TU Delft, and training workshops for agency partners across the U.S. and Canada.
 
-I’m also passionate about teaching and mentoring. Through workshops and guest lectures at UC Berkeley, UC Santa Cruz, and TU Delft, I help students and professionals build and troubleshoot real-world coastal models — bridging theory, data, and decision-making in practice.
-
-Outside of work, you’ll find me trail running in the East Bay hills, experimenting with drought-tolerant gardening, cooking new meals with my wife, or backpacking in the Sierra Nevada. These places remind me why resilience work matters — we are protecting both communities and the natural environments we love.
+Outside of work, you'll find me trail running in the East Bay hills, cooking new meals with my wife, or backpacking in the Sierra Nevada. These places remind me why resilience work matters — we are protecting both communities and the natural environments we love.

@@ -6,3 +6,6 @@ repo_description_lines_max: 2
 github_repos:
   - Deltares/SFINCS
   - Deltares/hydromt_sfincs
+  - Deltares-research/arctic-xbeach
+  - Deltares-research/cht_cyclones
+  - keesnederhoff/keesnederhoff.github.io
