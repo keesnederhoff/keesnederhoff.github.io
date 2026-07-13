@@ -9,7 +9,7 @@
       "region": "California",
       "countryCode": "US"
     },
-    "summary": "Coastal scientist specializing in compound flooding, coastal-estuarine physical processes, and operational hazard modeling. Ph.D. from Delft University of Technology and IHE Delft (2024). Principal Investigator on $6M+ in federal research funding from USGS, ONR, NSF, NOAA, and FEMA. Co-developer of SFINCS, a compound flood model used operationally by USGS, NOAA, and the U.S. Navy in 20+ countries. Published 32+ peer-reviewed articles (h-index 19, 1,400+ citations). Supervised 23 graduate students across six research universities.",
+    "summary": "Coastal scientist specializing in compound flooding, coastal-estuarine physical processes, and operational hazard modeling. Ph.D. from Delft University of Technology and IHE Delft (2024). Principal Investigator on $6M+ in federal research funding from USGS, ONR, NSF, NOAA, and FEMA. Co-developer of SFINCS, a compound flood model used operationally by USGS, NOAA, and the U.S. Navy in 20+ countries. Published 33+ peer-reviewed articles (h-index 19, 1,400+ citations). Supervised 23 graduate students across six research universities.",
     "profiles": [
       {
         "network": "Google Scholar",
@@ -31,7 +31,7 @@
     ]
   },
   "research_impact": {
-    "publications": "32 peer-reviewed articles",
+    "publications": "33 peer-reviewed articles",
     "h_index": 19,
     "citations": 1361,
     "citations_source": "Google Scholar, October 2025",
@@ -49,7 +49,7 @@
       "summary": "Principal Investigator on $6M+ in federal research grants advancing compound flooding science, coastal process understanding, and operational hazard modeling tools.",
       "highlights": [
         "Co-developed SFINCS, a compound flood model now operational in 20+ countries and adopted by USGS CoSMoS and U.S. Navy forecasting systems",
-        "Published 32+ peer-reviewed articles in journals including Nature Climate Change, Coastal Engineering, Geoscientific Model Development, and Natural Hazards and Earth System Sciences",
+        "Published 33+ peer-reviewed articles in journals including Nature Climate Change, Coastal Engineering, Geoscientific Model Development, and Natural Hazards and Earth System Sciences",
         "Lead researcher on the San Francisco Bay Community Model (Delft3D FM), providing shared modeling infrastructure for regional flood risk and adaptation analysis",
         "Supervised 23 graduate students (7 PhD, 16 MSc) across six universities, resulting in 6 peer-reviewed publications",
         "Lead PI on Arctic coastal hazards program spanning ONR MURI (thermo-morphodynamics), NSF ACTION (community resilience), and USGS CoSMoS-Alaska",
@@ -116,6 +116,17 @@
     }
   ],
   "publications": [
+    {
+      "name": "Beyond the 100-year flood: probabilistic flood hazard assessment for King and Pierce Counties under future climate scenarios",
+      "authors": "Nederhoff, K., Parker, K., & Grossman, E.",
+      "publisher": "Natural Hazards and Earth System Sciences",
+      "releaseDate": "2026-07-13",
+      "volume": "26(7)",
+      "pages": "3231-3251",
+      "doi": "10.5194/nhess-26-3231-2026",
+      "type": "First Author",
+      "note": "Highlight paper"
+    },
     {
       "name": "Mitigating Flood Risks in Urban Estuaries: Tidal Dynamics, Shoreline Hardening, Nature-Based Solutions, and Floodgates in San Francisco Bay",
       "authors": "Nederhoff, K., Saleh, R., Barnard, P. L., & Stacey, M.",
